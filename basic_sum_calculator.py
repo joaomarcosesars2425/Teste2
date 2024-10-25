@@ -8,7 +8,7 @@ def calculadora():
     num1 = int(input("Digite o primeiro número: "))
     num2 = int(input("Digite o segundo número: "))
     result = soma(num1, num2)
-    print("Resultado da soma: " + str(result))
+    print("Resultado da soma 1: " + str(result))
 
 # Executa a calculadora
 calculadora()

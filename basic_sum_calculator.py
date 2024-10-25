@@ -3,6 +3,10 @@
 def soma(x, y):
     return x + y
 
+# Função para soma
+def mult(x,y):
+    return x * y
+
 # Função principal
 def calculadora():
     num1 = int(input("Digite o primeiro número: "))

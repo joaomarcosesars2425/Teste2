@@ -3,7 +3,7 @@
 def soma(x, y):
     return x + y
 
-# Função para soma
+# Função para multiplicacao
 def mult(x,y):
     return x * y
 
